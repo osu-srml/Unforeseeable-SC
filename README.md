@@ -2,7 +2,7 @@
 
 This is the code for our paper ```Learning under Imitative Strategic Behavior with Unforeseeable Outcomes```
 
-The experimental results on FICO data and synthetic data can be replicated by using those notebooks
+The experimental results on FICO data and synthetic data can be replicated by using those notebooks:
 
 - ```Experiments in FICO```: This notebook produces all results for the FICO dataset
 - ```Gaussian data experiments (not including fairness)```: This notebook produces all results for the Gaussian dataset except the fairness-related experiments
